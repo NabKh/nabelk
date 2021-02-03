@@ -30,10 +30,10 @@ doi: "https://doi.org/10.1016/j.jpowsour.2020.229318"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Power Sources*
+publication: *Journal of Power Sources*
 publication_short: In *J. Power Sources*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Development of high capacity anode materials is one of the essential strategies for next-generation high-performance Li/Na-ion batteries. Rational design, using density functional theory, can expedite the discovery of these anode materials. Here, we propose a new anode material, germanium carbide, g-GeC, for Li/Na-ion batteries. Our results show that g-GeC possesses both benefits of the high stability of graphene and the strong interaction between Li/Na and germanene. The single-layer germanium carbide, g-GeC, can be lithiated/sodiated on both sides yielding Li2GeC and Na2GeC with a storage capacity as high as 633 mA h/g. Besides germagraphene's 2D honeycomb structure, fast charge transfer, and high (Li/Na)-ion diffusion and negligible volume change further enhance the anode performance. These findings provide valuable insights into the electronic characteristics of newly predicted 2D g-GeC nanomaterial as a promising anode for (Li/Na)-ion batteries.
 
 # Summary. An optional shortened abstract.
 summary: Development of high capacity anode materials is one of the essential strategies for next-generation high-performance Li/Na-ion batteries. Rational design, using density functional theory, can expedite the discovery of these anode materials. Here, we propose a new anode material, germanium carbide, g-GeC, for Li/Na-ion batteries. Our results show that g-GeC possesses both benefits of the high stability of graphene and the strong interaction between Li/Na and germanene. The single-layer germanium carbide, g-GeC, can be lithiated/sodiated on both sides yielding Li2GeC and Na2GeC with a storage capacity as high as 633 mA h/g. Besides germagraphene's 2D honeycomb structure, fast charge transfer, and high (Li/Na)-ion diffusion and negligible volume change further enhance the anode performance. These findings provide valuable insights into the electronic characteristics of newly predicted 2D g-GeC nanomaterial as a promising anode for (Li/Na)-ion batteries.
@@ -72,20 +72,4 @@ image:
 # projects:
 #- example
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-#slides: example
-#---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+---
