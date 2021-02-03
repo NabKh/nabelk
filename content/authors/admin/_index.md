@@ -45,19 +45,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:nabil.khossossi@physics.uu.se'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/na_khossossi
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=5tdcZ2VYgBkC&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/nabkh
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/nkhossossi/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -79,4 +79,4 @@ He is currently interested in DFT-based multi-scale modeling for the understandi
 
 I will be looking for a post-doc position to start in 2021. Although I am primarily looking at positions in academic environments and research institutes, I am open to research-intensive environments with projects on the topics mentioned above. My academic CV is available upon request.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} A resume is available {{< staticref "media/demo_resume.pdf" "newtab" >}}here{{< /staticref >}}.
