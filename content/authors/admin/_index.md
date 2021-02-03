@@ -17,26 +17,28 @@ organizations:
   url: https://www.physics.uu.se/research/materials-theory/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Smart Materials for Energy Storage and Conversion, Multiscale Simulations, High performance computing, Machine Learning.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+- Multiscale Simulations
+- High performance computing
+- Computational Materials Science
+- Density Functional Theory
+- Condensed Matter Physics
+- Machine Learning
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computational Material Science and Engineering
+    institution: Moulay Ismail University & Uppsala University
+    year: 2021
+  - course: M.Sc. in Mathematical Physics
+    institution: Mohamed V University
+    year: 2017
+  - course: BSc in Theoretical physics 
+    institution: Mohamed V University
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
