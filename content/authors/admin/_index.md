@@ -1,17 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Nabel Khossossi
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. student in Computational Material Science and Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Moulay Ismail University
+  url: https://www.fs-umi.ac.ma/
+ 
+- name: Uppsala University
+  url: https://www.physics.uu.se/research/materials-theory/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -70,8 +73,10 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Nabil Khossossi received his M.Sc degree in Mathematical Physics from the Department of Physics at Mohamed V university, Rabat in 2017. Then, he joined Material Physics and System Modeling laboratory at Department of Physics, Moulay Ismail University, Meknes, Morocco, as Ph.D. candidate under the supervision of Prof. Ismail Essaoudi & Prof. Abdelmajid Ainane. He is currently a visiting research student under the supervision of Prof. Rajeev Ahuja at Materials Theory Group, Department of Physics and Astronomy, Uppsala University, Sweden. His PhD work focus on unifying energy harvesting through 2D materials modelling, including energy conversion and storage applications.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He is currently interested in DFT-based multi-scale modeling for the understanding and design of new energy materials and developing machine learning approach for 2D materials electrodes.
+
+I will be looking for a post-doc position to start in 2021. Although I am primarily looking at positions in academic environments and research institutes, I am open to research-intensive environments with projects on the topics mentioned above. My academic CV is available upon request.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
