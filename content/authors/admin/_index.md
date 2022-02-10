@@ -6,7 +6,7 @@ title: Nabil Khossossi
 superuser: true
 
 # Role/position/tagline
-role: Postdoktoral Forskare vid Institutionen för fysik och astronomi, Materialteori
+role: Postdoktoral Forskare vid Institutionen för fysik och astronomi
 
 # Organizations/Affiliations to show in About widget
 organizations:
