@@ -10,7 +10,6 @@ role: Postdoktoral Forskare vid Institutionen för fysik och astronomi
 
 # Organizations/Affiliations to show in About widget
 organizations:
-
 - name: Uppsala University
   url: https://www.physics.uu.se/research/materials-theory/
 
