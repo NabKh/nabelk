@@ -1,18 +1,16 @@
 ---
 # Display name
-title: Nabel Khossossi
+title: Nabil Khossossi
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. student in Computational Material Science and Engineering
+role: Postdoktoral Forskare vid Institutionen för fysik och astronomi, Materialteori
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Moulay Ismail University
-  url: https://www.fs-umi.ac.ma/
- 
+
 - name: Uppsala University
   url: https://www.physics.uu.se/research/materials-theory/
 
@@ -75,10 +73,10 @@ email: ""
 highlight_name: false
 ---
 
-Nabil Khossossi received his M.Sc degree in Mathematical Physics from the Department of Physics at Mohamed V university, Rabat in 2017. Then, he joined Material Physics and System Modeling laboratory at Department of Physics, Moulay Ismail University, Meknes, Morocco, as Ph.D. candidate under the supervision of Prof. Ismail Essaoudi & Prof. Abdelmajid Ainane. He is currently a visiting research student under the supervision of Prof. Rajeev Ahuja at Materials Theory Group, Department of Physics and Astronomy, Uppsala University, Sweden. His PhD work focus on unifying energy harvesting through 2D materials modelling, including energy conversion and storage applications.
+I’m a postdoctoral researcher (Postdoktoral forskare) at Uppsala University working on functinal materials design and discovery. My current research involves using data science and machine learning to solve problems in materials science.
 
-He is currently interested in DFT-based multi-scale modeling for the understanding and design of new energy materials and developing machine learning approach for 2D materials electrodes.
+In early 2019, I joined Uppsala University to conduct my Ph.D. collaborative research, where I was focused on the discovery and analysis of energy materials using first principles calculations. My research spans a broad range of energy related applications, including energy Conversion & Storage , photo-catalysis (HER & OER), thermoelectric, solar cells, perovskites, covalent organic frameworks, and other related applications of novel two/three‐dimensional materials.
 
-I will be looking for a post-doc position to start in 2021. Although I am primarily looking at positions in academic environments and research institutes, I am open to research-intensive environments with projects on the topics mentioned above. My academic CV is available upon request.
+I currently very interested in DFT-based multi-scale modeling for the understanding and design of new energy materials and developing machine learning approach for sustainable energy materials.
 
 {{< icon name="download" pack="fas" >}} A resume is available {{< staticref "media/demo_resume.pdf" "newtab" >}}here{{< /staticref >}}.
