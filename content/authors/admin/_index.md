@@ -21,6 +21,7 @@ interests:
 - Multiscale Simulations
 - High performance computing
 - Computational Materials Science
+- Ab-initio Molecular Dynamics
 - Density Functional Theory
 - Condensed Matter Physics
 - Machine Learning
