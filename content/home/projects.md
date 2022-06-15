@@ -31,10 +31,8 @@ content:
     tag: Machine Learning
   - name: Battery Electrodes
     tag: Battery
-  - name: Battery Electrodes
-    tag: Battery
-  - name: Photocatalysis
-    tag: Photocatalysis
+  - name: Other
+    tag: Demo
     
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
