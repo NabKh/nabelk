@@ -2,16 +2,18 @@
 title: Revealing the superlative electrochemical properties of o-B2N2 monolayer
   in Lithium/Sodium-ion batteries
 publication_types:
-  - "0"
+  - "2"
 authors:
-  - NabilKhossossi
+  - admin
   - WeiLuo
   - Zakaryae Haman
   - Deobrat Singh
   - Ismail Essaoudi
   - Abdelmajid Ainane
-  - and RajeevAhuj
+  - RajeevAhuj
 doi: https://doi.org/10.1016/j.nanoen.2022.107066
+publication: In *Nano Energy*
+publication_short: In *Nano Energy*
 abstract: Promising flexible electrochemical energy storage systems (EESSs) are
   currently drawing considerable attention for their tremendous prospective
   end-use in portable self-powered electronic devices, including roll-up
@@ -39,11 +41,36 @@ abstract: Promising flexible electrochemical energy storage systems (EESSs) are
   flexible anode materials for Lithium and Sodium-ion battery. Our finding
   provides valuable insights for experimental explorations of flexible anode
   candidates based on 2D o-B2N2 monolayer.
-draft: true
+draft: false
 featured: true
 image:
   filename: screenshot-2022-06-16-at-12.06.47.png
   focal_point: Smart
   preview_only: false
+summary: We have revealed for the first time the superlative electrochemical
+  properties of 2D Boron Nitride as flexible anode for (Li,Na)-based ion
+  batteries through several influencing factors based on the density functional
+  theory calculations and ab-initio molecular dynamics simulations. The binding
+  strength, kinetics as well as the ionic-mobility of Li and Na intercalation
+  were thoroughly evaluated. The finding indicates that the Li- and Na atoms can
+  be stably inserted into B2N2 surface without clustering and tend to be
+  preferably adsorbed at the B4N2-hollow site with a binding strength of about
+  −1.408 and −0.569 eV, respectively. Additionally, the o-B2N2 provides
+  outstanding electronic conductivity throughout the partial
+  lithiation/sodiation process, a critical feature required for its application
+  as a battery electrode. The high Li and Na storage capacity in both sides of
+  o-B2N2 surface can achieve a very high-record theoretical specific capacity of
+  about 3239.74 and 2159.83 mAh g−1, respectively. This represents a new
+  superior record for Li-storage and significantly higher compared to many other
+  2D materials for Na-storage. Also, these extremely high lithiated/sodiated
+  exhibits good mechanical and thermal stability. Besides, the comparatively low
+  open-circuit voltages of approximately 0.48 V (Li) and 0.33 V (Na) and
+  Li/Na-ionic mobility of about 0.38 and 0.16 eV, respectively, provide a
+  significant advantage in the high-performance Li- and Na-ion batteries. Based
+  on the above remarkable electrochemical properties, it can be expected that 2D
+  o-B2N2 offers a great prospect to be used as a new battery electrode for Li
+  and Na ion batteries. Therefore, it is highly believed and hopefully, the
+  present work can serve as a guideline for both computational and experimental
+  discussions on the promising and versatile 2D anode materials.
 date: 2022-06-16T10:58:55.946Z
 ---
